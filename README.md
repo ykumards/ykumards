@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=quantumgeeky&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
