@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-#### 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ykumards&theme=dracula)
 
 
